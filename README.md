@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Muskan 👋
 
-<!--
-**MuskanMoptra/MuskanMoptra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer focused on building robust server-side applications, APIs, and scalable database systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Tools
+- **Languages:** Python, SQL
+- **Frameworks & Backend:** RESTful APIs
+- **Databases & ORM:** PostgreSQL
+- **DevOps & Environments:** Docker, Git/GitHub
+
+---
+
+### 🔭 Currently Working On
+- Developing enterprise backend modules and catalog loaders
+- Writing end-to-end integration and golden sample test suites
+- Containerizing microservices and database workflows
+
+---
+
+### 📫 Connect With Me
+- [LinkedIn](https://linkedin.com/in/your-profile)
+- [Email](mailto:your-email@example.com)
